@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Apple has addressed the issues in their official updates
+
 # AX88179A macOS Fix
 
 This tool resolves connectivity issues with the AX88179A USB-to-Ethernet adapter on macOS by configuring it to use USB configuration #2.
